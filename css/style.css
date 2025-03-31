@@ -1,0 +1,39 @@
+nav{
+	border: 3px solid black;
+	background: white;
+}
+h1{
+	width: 35%;
+	background-color: lightblue;
+	margin-right: 50%;
+}
+body{
+	background: lightgray;
+	margin-right: 1%;
+	margin-right: 10%;
+}
+p{
+	color: gray;
+}
+#vvv{
+	width: 30%;
+}
+img{
+	width: 15%;
+}
+h2{
+	text-align: center;
+}
+footer{
+	background-color: lightblue;
+}
+#block,#ggg{
+	border: 3px solid black;
+	background-color: gray;
+	margin-right: 80%;
+}
+#flo{
+	border: 3px solid black;
+	background-color: gray;
+	margin-left: 80%;
+}
